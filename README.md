@@ -1,3 +1,6 @@
+# TCCL
+We are organizing the code for the camera-ready version of the paper. The official code repository will be released in my personal account [`gbxu`](https://github.com/gbxu). By the way, I forgot the password of this anonymous account.
+
 # NCCL
 
 Optimized primitives for inter-GPU communication.
